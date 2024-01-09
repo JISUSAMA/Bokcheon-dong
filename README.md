@@ -1,8 +1,5 @@
 <div align='center'>
-  
-
-
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/5fee957b-0924-4862-b3f7-61330f14cb2e" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/47a5212d-7794-4c49-ae09-38466b9c9c4c">
 
 <h2>프로젝트 소개</h2>
 
@@ -27,9 +24,9 @@ AR 마커 모양에 따라서 동작 및 컨텐츠가 순조롭게 진행 될 �
 <br>
 <br>
 
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/df650402-0289-4444-b64b-294c012eff30" width="640" height="360">
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/6168c095-5034-4d81-af3f-4b69eab93b91" width="640" height="360">
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/05ad2c94-73ca-4569-958b-947661ceae97" width="640" height="360">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/33925c28-de1b-4c4f-96ba-55b82f8f4c51" width="640" height="360">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/3fd2d25d-ebc0-48e6-974f-39e3f63e01e5" width="640" height="360">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/d7b5cb0e-fe93-491c-8d3d-872d0dfffa37" width="640" height="360">
 </div>
 
 
